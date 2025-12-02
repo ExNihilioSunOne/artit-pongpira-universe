@@ -1,0 +1,59 @@
+# LaTeX intermediate and output files
+*.aux
+*.lof
+*.log
+*.lot
+*.fls
+*.out
+*.toc
+*.fmt
+*.cb
+*.cb2
+*.bbl
+*.bcf
+*.blg
+*.run.xml
+*.fdb_latexmk
+*.synctex.gz
+*.pdf
+*.xdv
+*.nav
+*.snm
+*.vrb
+*.dvi
+
+# LaTeX editors and system files
+*~
+*.swp
+*.bak
+*.backup
+*.tmp
+*.temp
+*.DS_Store
+
+# Other editors
+.vscode/
+
+# Compilation dependency files
+*.eps
+*.pst
+*.ps
+*.svg
+*.bak2
+*.acn
+*.glo
+*.gls
+*.ist
+*.xdy
+*.toc
+*.idx
+*.ilg
+*.ind
+*.dvi
+*.synctex.gz
+*.thm
+*.nav
+*.snm
+
+# Misc
+_auto/
