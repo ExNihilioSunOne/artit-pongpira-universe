@@ -1,2 +1,2 @@
 # artit-pongpira-universe
-All my genius works of mathematics and the nature sciences
+Complete archive of mathematical discoveries by Mr. Artit Pongpira - A timestamped legacy for humanity
