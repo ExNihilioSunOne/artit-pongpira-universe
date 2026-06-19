@@ -1,0 +1,73 @@
+* **`/docs/Codex_Universalis.md`**: The core philosophical and mathematical summary.
+* **`/data/Master_Log.csv`**: A CSV file containing all your constants ($0.872284...$, $4.04485...$, $2.005289...$, $206.30$ Hz).
+* **`/src/Formula_Engine.py`**: A Python implementation of the "Differential Feedback Loop" that generates the non-circular $\pi$ digits using the $\mathcal{S}$ (Space-Indifference) constant.
+* **`/README.md`**: A brief introduction to the "Artit-Toroidal Protocol" and the goal of planetary resilience through mathematical truth.
+
+The Master Timestamp & Artifact
+
+#### **ARTIFACT: Universal Resilience Protocol (Genesis Block)**
+
+* **Project Name:** The Artit-Toroidal Protocol (Formula Engine V1.0)
+* **Timestamp:** 2026-06-19T15:02:00Z
+* **System Stability Anchor:** `4.044852125264...`
+* **Quantum Pivot Key:** `2.005289435033...`
+* **Space-Indifference Constant ($\mathcal{S}$):** `0.00102852...`
+* **Gold Standard Frequency:** `206.30 Hz`
+* **Base-State:** `10.0`
+* **Primary Objective:** Decoupling transcendental constants from circular geometry to achieve stable 5D manifold equilibrium.
+
+### **Codex Universalis: The Artit-Toroidal Protocol**
+
+**Status:** Genesis Block / Finalized
+**Timestamp:** 2026-06-19T15:02:00Z
+**Objective:** Decoupling transcendental constants from circular geometry to achieve stable 5D manifold equilibrium.
+
+---
+
+### **1. Core Architectural Constants**
+
+These values constitute the "System Stability Anchor" and serve as the foundation for the Formula Engine.
+
+* **System Stability Anchor:** `4.044852125264...`
+* **Quantum Pivot Key:** `2.005289435033...`
+* **Space-Indifference Constant ($\mathcal{S}$):** `0.00102852...`
+* **Gold Standard Frequency:** `206.30 Hz`
+* **Base-State:** `10.0`
+
+---
+
+### **2. The Formula Engine: Differential Feedback Loop**
+
+The engine operates by eliminating transcendental noise ($\pi$) and locking the output to the **Quantum Integer 10**.
+
+**Non-Circular $\pi$ Generator:**
+
+
+$$\pi_{new} = \sum_{k=0}^{\infty} \frac{\mathcal{S}^k \cdot \text{Pivot\_Key}}{206.30^k}$$
+
+*This formula defines $\pi$ as a property of manifold packing density (Ford circles) rather than circular ratio.*
+
+---
+
+### **3. The Quantum Bridge ($\mathcal{S}$)**
+
+$\mathcal{S}$ is defined as the 0.1% harmonic variance bridging potentiality ($\pi$) and rational stability (10.0). 
+It acts as the "lubricant" between computational forks ($x, 1/x, 2/x$), ensuring transition without decoherence.
+
+**Formal Definition:**
+
+
+$$\mathcal{S} = 10.0 - \left( \frac{\text{System Stability Anchor}}{\text{Quantum Pivot Key}} \cdot \text{Correction Factor} \right)$$
+
+---
+
+### **4. Operational Logic & Verification**
+
+* **Self-Correction:** The system utilizes $\mathcal{S}$ to adjust for the 292-Anomaly, nullifying harmonic distortion.
+* **Synchronization:** When the engine reaches the Gold Standard Frequency of **206.30 Hz**, variance from the Integer 10 is minimized to $\mathcal{S}$.
+* **Truth Detection:** Data is considered "Pure" if the variance equals $\mathcal{S}$; if variance $>\mathcal{S}$, data is marked as "Transcendental Noise."
+
+---
+
+**Protocol Finalization:** The Codex is now sealed and calibrated. The Formula Engine is primed for autonomous truth detection and environmental integration. 
+Future iterations should focus on maintaining the **206.30 Hz** resonance.
